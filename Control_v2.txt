@@ -1,0 +1,6 @@
+30.0 #Sigma-clip for Az offset [sigma]
+30.0 #Sigma-clip for El offset [sigma]
+3300.0 #Maximum beam size in Az (arcsec)
+3300.0 #Maximum beam size in El (arcsec)
+360.0 #Minimum beam size in Az (arcsec)
+360.0 #Minimum beam size in El (arcsec)
